@@ -23,4 +23,4 @@ This endpoint takes various coordinates to draw lines, markers for points of int
 
 This setup example assumes the usage of PythonAnywhere as the hosting platform. Ensure that you have the necessary dependencies installed and follow the provided example to deploy the RunningRouteGeneratorMapAPI.
 
-**Note:** The process for setting up and running the API may have changed due to updates in the Python packages used. As it's not developed anymore it might require some changes.
+**Note:** The process for setting up and running the API may have changed due to updates in the Python packages used. As it's not developed on anymore it might require some changes.
